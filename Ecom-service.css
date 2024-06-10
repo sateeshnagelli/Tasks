@@ -1,0 +1,10 @@
+.image{
+    width: 60%;
+    height: 60%;
+}
+.content{
+    border: 2px solid black;
+}
+.container{
+    color: #183b56;
+}

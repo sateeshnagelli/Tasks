@@ -1,0 +1,11 @@
+.container{
+    background-color: lightgrey;
+    padding: 20px;
+    margin: 30px;
+}
+.blue-text{
+    color: blue;
+}
+#despription{
+    font-size: 20px;  
+}

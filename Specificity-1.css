@@ -1,0 +1,23 @@
+.container{
+    background-color: aliceblue;
+    margin: 20px;
+} 
+.container-name{
+    background-color: rgb(232, 238, 236);
+    padding: 10px;
+}
+.designation{
+    font-size: larger;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+.designation-details{
+    background-color: rgb(178, 221, 221);
+    font-size: 500;
+    padding: 30px;
+}
+.contact-info{
+    background-color: #1a2137;
+    color: white;
+    padding: 30px;
+}

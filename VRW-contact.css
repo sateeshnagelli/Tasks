@@ -1,0 +1,14 @@
+img{
+    width: 50%;
+    height: 50%;
+}
+.container{
+    background-color: #222b36;
+}
+.heading{
+    color: white;
+}
+.btn{
+    border: 2px solid white;
+    color: white;
+}

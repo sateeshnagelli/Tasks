@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid black;
+    background-color: #f5f7fa;
+}
+.main-cont{
+    color: #183b56;
+}
+.btn{
+    color: #ff9f00;
+    border: 2px solid #ff9f00;
+}

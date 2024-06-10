@@ -1,0 +1,13 @@
+.card{
+ width: 80%; 
+ height:100%; 
+}
+.card{
+    color: #7b8794;
+}
+.card-title{
+    color: #1f2933;
+}
+.text{
+    font-weight: bolder;
+}

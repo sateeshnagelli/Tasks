@@ -1,0 +1,31 @@
+.Main-class{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    height: 550px;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+}
+.mainheading{
+    background-color: #323f4b;
+    text-align: center;
+    padding: 20px;
+    font-weight: 900;
+}
+.varakumar{
+    text-align: right;
+    padding: 10px;
+    background-color: #47a3f3;
+    margin: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.rahul{
+    text-align: left;
+    padding: 10px;
+    background-color:#52606d;
+    margin: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

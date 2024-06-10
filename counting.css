@@ -1,0 +1,13 @@
+.counter-heading{
+    font-weight: bolder;
+}
+.counter-value{
+    font-size: xx-large ;
+    font-weight: 700;
+    margin: 30px;
+}
+.button{
+    margin: 15px;
+    border-radius: 8px;
+    
+}

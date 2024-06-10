@@ -1,0 +1,33 @@
+.skills{
+    background-color: #1f2933;
+}
+.row{
+    background-color: #323f4b;
+    color: #9aa5b1;
+}
+.card-img{
+    background-color:#323f4b ;
+}
+.cont-para{
+    color: #cced00;
+}
+.skill-img{
+    background-color: #1f2933;
+    
+} 
+.images{
+    width: 70%;
+    height: 70%;
+    border: 2px solid #323f4b;
+    padding: 30px;
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+.course{
+    color: white;
+    margin-left: 30px;
+    
+}
+h5{
+    color: #cced00;
+}

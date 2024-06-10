@@ -1,0 +1,27 @@
+*{
+    background-color: #19232d;
+    color: #5a7184;
+    
+}
+.icons{
+    background-color: #202b36;
+    border-radius: 100%;
+    padding: 30px;
+    margin-left: 10px;
+}
+.details{
+    font-size: larger;
+}
+.bottom{
+    font-size: larger;
+    font-weight: 500;
+    color: #959ead;
+}
+li{
+    margin: 13px;
+}
+.main-img{
+    margin-top: 40px;
+    width: 50%;
+    height: 30%;
+}

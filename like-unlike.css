@@ -1,0 +1,17 @@
+.puppy-image {
+    width: 100%;
+}
+.like-icon {
+    color: #CBD2D9;
+    font-size: 40px;
+}
+.like-button {
+    color: #9AA5B1;
+    background-color: #CBD2D9;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 8px;
+}

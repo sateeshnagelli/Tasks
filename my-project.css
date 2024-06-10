@@ -1,0 +1,45 @@
+*{
+    color: #616e7c;
+}
+.a{
+    margin: 15px;
+    padding: 15px;
+}
+.home-item-image{
+    height: 100px;
+    margin: 15px;
+    width: 30rem;
+}
+.card{
+    text-align: center;}
+    
+
+.back{
+    text-align: center;
+    width: 35rem;
+    height: 35rem;
+     margin-left: 100px;
+    border: 2px solid black;
+}
+.back1{
+    text-align: center;
+    width: 30rem;
+    height: 35rem;
+     margin-left: 100px;
+    border: 2px solid black;
+}
+
+.images{
+    height:25rem;
+    width: 30rem;
+}
+.button1{
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.heading1{
+    background-color: orange;
+}
+.heading{
+    font-style: italic;
+}

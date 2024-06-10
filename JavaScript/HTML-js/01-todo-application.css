@@ -1,0 +1,13 @@
+.items-heading-1{
+    font-weight: 400;
+}
+.task-heading-1{
+    font-weight: 400;
+}
+.todo-button{
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    padding: 15px;
+}
+

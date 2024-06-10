@@ -1,0 +1,18 @@
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+.container{
+background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167 );
+}
+.image-1{
+    height: 60%;
+    width: 80%;
+}
+.cont-head{
+    color: #ad2167;
+}
+.cont-para{
+    color: aliceblue;
+}

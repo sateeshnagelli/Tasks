@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="console.log(`cart quantity: ${cartQuantity}`)"> cartQuantity</button>
+    <button onclick= "cartQuantity+=1;
+     console.log(`cart quantity: ${cartQuantity}`)"> add to cart</button>
+     <button onclick="cartQuantity+=2;
+     console.log(`cart quantity:${cartQuantity}`)">add+2</button>
+     <button onclick="cartQuantity=0;
+     console.log(`cart was reset`)
+     console.log(`cartquantity:${cartQuantity}`)" 
+     >Reset</button>
+    <script>
+      let cartQuantity=0;  
+
+             "use strict";
+
+    process.stdin.resume();
+    process.stdin.setEncoding("utf-8");
+
+    let inputString = "";
+    let currentLine = 0;
+
+    process.stdin.on("data", (inputStdin) => {
+    inputString += inputStdin;
+    });
+
+    process.stdin.on("end", (_) => {
+    inputString = inputString.trim().split("\n").map((str) => str.trim());
+    main();
+    });
+
+    function readLine() {
+    return inputString[currentLine++];
+    }
+    function main(){ 
+         let index = parseInt(readLine());
+        
+        let myArray = [25, false, "green", "apple"];
+
+        let valueAtGivenIndex = myArray[index];
+        console.log(valueAtGivenIndex);
+        }
+    </script>
+</body>
+</html>

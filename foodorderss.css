@@ -1,0 +1,23 @@
+
+.background-container{
+    width: 30rem;
+    height: 40rem;
+    background-size: cover;
+    margin-left: 80px;
+    }
+.button{
+    text-align: center;
+    padding: 10px;
+   }
+.main-heading{
+    border-top-left-radius: 30px;
+    padding-top: 20px;
+    background-color:rgb(241, 172, 52);
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+img{
+    width: 30rem;
+    height: 30rem; 
+    
+}

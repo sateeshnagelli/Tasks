@@ -1,0 +1,30 @@
+.top-section{
+    background-size: cover;
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding-top: 40px;
+    padding-right: 10px;
+    width: 75vw;
+    padding-left: 30px ;
+}
+
+.card{
+    background-color: #e6f6ff;
+    width: 75vw;
+   
+    
+}
+.middle-section{
+    background-color: #e6f6ff;
+    width: 75vw;
+   
+    
+}
+.btn{
+margin-left: 160px;
+    
+}
+h5{
+    margin-top: 5px;
+    margin-left: 10px;
+}

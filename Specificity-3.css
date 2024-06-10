@@ -1,0 +1,14 @@
+.container{
+    margin: 30px;
+}
+p{
+    background-color: rgb(182, 135, 17);
+    padding: 35px;
+    margin: 0;
+}
+#para{
+    background-color: black;
+    color: aliceblue;
+    
+
+}

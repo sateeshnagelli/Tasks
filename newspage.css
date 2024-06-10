@@ -1,0 +1,25 @@
+.background-container{
+    height: 35rem;
+    width: 30rem;
+    background-size: cover;
+    padding-left: 10px;
+}
+.card{
+    background-color: #ffffff;
+    border: 30px;
+    padding-left: 20px;
+}
+.main-heading{
+    color: #323f4b;
+    
+}
+.paragraph{
+    color: #7b8794;
+    margin-top: 20px;
+ }
+ button{
+    background-color:black;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-top: 10px;
+ }
