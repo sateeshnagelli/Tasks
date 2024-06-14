@@ -1,0 +1,16 @@
+.heading{
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.item-list-container{
+    margin: 0;
+    padding: 4;
+    list-style-type: none;
+}
+
+.ordered-item{
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 10px;
+}
