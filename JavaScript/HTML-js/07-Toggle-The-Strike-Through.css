@@ -1,0 +1,8 @@
+.checkbox-label{
+    font-family: "Roboto";
+    margin-left: 5px;
+}
+
+.strike-through{
+    text-decoration: line-through;
+}
