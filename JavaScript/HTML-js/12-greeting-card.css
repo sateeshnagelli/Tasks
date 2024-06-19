@@ -1,0 +1,26 @@
+.greet{
+    color: #1f2933;
+    font-family: "Dm sans";
+    font-weight: bold;
+}
+.heading{
+    color: #1f2933;
+    font-family: "Playfair Display";
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.new-year{
+    font-size: 75px;
+}
+
+.greet-text-container{
+    text-align: center;
+    height: 80vh;
+}
+
+.greet-text{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+}
