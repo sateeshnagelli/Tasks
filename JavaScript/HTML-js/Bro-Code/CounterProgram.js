@@ -1,5 +1,5 @@
 decreaseBtn = document.getElementById("decreaseBtn");
-increseBtn = document.getElementById("increaseBtn");
+increaseBtn = document.getElementById("increaseBtn");
 resetBtn = document.getElementById("resetBtn");
 countLabel = document.getElementById("countLabel");
 
@@ -10,7 +10,7 @@ decreaseBtn.onclick = function(){
     countLabel.textContent = count;
 }
 
-increseBtn.onclick = function(){
+increaseBtn.onclick = function(){
     count++;
     countLabel.textContent = count;
 }
